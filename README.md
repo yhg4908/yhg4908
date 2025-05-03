@@ -2,6 +2,7 @@
 
 
 개인 이메일: yhg4908@naver.com
+
 업무(?) 이메일: karl0227@teamngt.by-works.net
 
 
