@@ -5,6 +5,8 @@
 
 업무(?) 이메일: karl0227@teamngt.by-works.net
 
+개인 이메일로 보내는건 가능하면 하지 말아주세요^^
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhg4908&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhg4908&layout=compact&theme=dracula)
