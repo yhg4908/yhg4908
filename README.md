@@ -5,6 +5,11 @@
 - 팀 언더나인
 - SRK Crew
 
+개발 or 참여: 
+- https://github.com/yhg4908/ranpick.py
+- https://github.com/yhg4908/kpth
+- https://github.com/team-ud9/ud-music-bot-discord
+
 사용 언어: 
 - Korean
 - Python
