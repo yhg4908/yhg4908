@@ -3,9 +3,7 @@
 
 rainy58, rainy5810, yhg4908 뭐로 부르시든 상관 없습니다 ><
 
-소속: 
-- 팀 언더나인 (해체)
-- 라온 스튜디오
+소속: 있었었음
 
 개발 or 참여: 
 - https://github.com/yhg4908/ranpick.py
@@ -19,6 +17,5 @@ rainy58, rainy5810, yhg4908 뭐로 부르시든 상관 없습니다 ><
 
 이메일: 
 - 개인용: yhg4908@naver.com
-- 업무용(라온스튜디오): karl0227@raonmail.kro.kr
 
 ![](https://github-readme-stats.vercel.app/api?username=yhg4908&show_icons=true&theme=dracula)
