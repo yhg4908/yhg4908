@@ -18,4 +18,8 @@ rainy58, rainy5810, yhg4908 뭐로 부르시든 상관 없습니다 ><
 이메일: 
 - 개인용: yhg4908@naver.com
 
+기타 링크: 
+- https://yhg4908.github.io
+- https://youtube.com/@hgstudio-1
+
 ![](https://github-readme-stats.vercel.app/api?username=yhg4908&show_icons=true&theme=dracula)
