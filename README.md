@@ -1,10 +1,6 @@
 #### 하이하이
 디스코드 봇, 파이썬 라이브러리 등을 개발하고 있습니다.
 
-rainy58, rainy5810, yhg4908 뭐로 부르시든 상관 없습니다 ><
-
-소속: 있었었음
-
 개발 or 참여: 
 - https://github.com/yhg4908/ranpick.py
 - https://github.com/yhg4908/kpth
